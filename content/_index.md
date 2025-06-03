@@ -58,8 +58,8 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: Features
-    id: Features
+  - block: features
+    id: features
     content:
       title: About us
       text: Build your site with blocks 🧱
