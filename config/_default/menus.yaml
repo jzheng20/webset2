@@ -21,9 +21,9 @@ main:
   - name: Positions
     url: /#positions
     weight: 60
-  - name: Funding Opportunities
+  - name: Opportunities
     weight: 70
     hasChildren: true
-  - parent: Funding Opportunities
-    name: Postdocs
+  - parent: Opportunities
+    name: Funding
     url: funding/
