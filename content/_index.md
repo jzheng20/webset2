@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Cao Research Group
-      text: Now Solving: "Now Solving: Global Optimal AI"
+      text: "Now Solving: Global Optimal AI"
       primary_action:
         text: Learn more
         url: https://hugoblox.com/templates/
