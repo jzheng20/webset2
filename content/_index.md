@@ -119,7 +119,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - post
+          - blog
         author: ""
         category: ""
         tag: ""
