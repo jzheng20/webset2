@@ -230,8 +230,8 @@ sections:
       title: Positions
       text: >
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
-            <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Please <span style="text-decoration: underline;">send your CV to yankai.cao@ubc.ca.</span>. </p> 
-            <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Please <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs).  </p>
+            <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Please send your CV to <span style="text-decoration: underline;">yankai.cao@ubc.ca.</span>. </p> 
+            <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Please **provide the following information:** degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs). </p>
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;"><strong>To Ph.D./ Master Candidates</strong></p>
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.</p>
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="underline text-blue-600 hover:text-blue-800"> UBC Graduate School</a>.</p>
