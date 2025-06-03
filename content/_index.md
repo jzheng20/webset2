@@ -16,7 +16,6 @@ sections:
       primary_action:
         text: Learn more
         url: https://hugoblox.com/templates/
-        icon: rocket-launch
       secondary_action:
         text: Joint us
         url: https://docs.hugoblox.com
