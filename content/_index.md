@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: CAI4CAI
-      text: We are an academic research group f
+      title: Cao Research Group
+      text: Now Solving: Global Optimal AI
       primary_action:
         text: Learn more
         url: https://hugoblox.com/templates/
