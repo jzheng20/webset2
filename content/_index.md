@@ -160,6 +160,9 @@ sections:
             funding sources, are more likely to be accepted and should indicate this in their communication. Scholarship holders are also provided with an additional top-up from 
             PI’s research funds.<br><br> 
           # Upload image to `assets/media/` and reference the filename here
+          primary_action:
+            text: Learn more
+            url: https://hugoblox.com/templates/
           image: build-website.png
           button:
             text: Learn more
