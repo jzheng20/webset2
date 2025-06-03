@@ -26,4 +26,4 @@ main:
     hasChildren: true
   - parent: Funding Opportunities
     name: Postdocs
-    url: blog/
+    url: funding/
