@@ -26,3 +26,9 @@ title: Funding Opportunities
 - UBC Killam Scholarship
 - China Scholarship Council Doctoral Scholarships
 - India SERB-UBC Scholarships
+
+## Funding Opportunities for Undergraduate Students
+
+- NSERC Undergraduate Student Research Awards
+- Work Learn International Undergraduate Research Awards
+- Mitacs Globalink Program
