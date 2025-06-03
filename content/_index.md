@@ -18,7 +18,7 @@ sections:
         url: https://hugoblox.com/templates/
       secondary_action:
         text: Joint us
-        url: https://docs.hugoblox.com
+        url: /#positions
       announcement:
         text: "Announcing the release of version 1."
         link:
@@ -77,7 +77,7 @@ sections:
           image: aboutus.png
           button:
             text: Joint us
-            url: https://hugoblox.com/templates/
+            url: /#positions
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
