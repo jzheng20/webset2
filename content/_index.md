@@ -175,10 +175,7 @@ sections:
       sort_ascending: false
     design:
       view: card                    
-      columns: '1'                   
-      card:
-        css_class: "shadow-lg rounded-xl border border-gray-200 p-4 bg-white"   
-
+      columns: '1'       
   - block: cta-image-paragraph
     id: solutions
     content:
