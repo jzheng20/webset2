@@ -241,7 +241,7 @@ sections:
           primary_action:
             text: Learn more
             url: https://hugoblox.com/templates/
-          image: build-website.png
+          image: 
           button:
             text: Learn more
             url: https://hugoblox.com/templates/
