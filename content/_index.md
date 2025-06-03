@@ -38,7 +38,7 @@ sections:
           filters:
             brightness: 0.5
   - block: cta-image-paragraph
-    id: solutions
+    id: about
     content:
       items:
         - title: About us
