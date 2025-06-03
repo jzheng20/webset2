@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: "Now Solving: Global Optimal AI"
+      title: '<img src="/media/log1.png" style="height: 2rem; vertical-align: middle; margin-right: 0.5rem;">Now Solving: Global Optimal AI'
       text: "Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks."
       primary_action:
         text: Learn more
