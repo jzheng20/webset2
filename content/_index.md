@@ -158,7 +158,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - pub
+          - blog
         author: ""
         category: ""
         tag: ""
