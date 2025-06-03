@@ -174,10 +174,11 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      # Choose a listing view
-      view: compact
-      # Choose single or dual column layout
-      columns: '1'
+      view: card                    
+      columns: '1'                   
+      card:
+        css_class: "shadow-lg rounded-xl border border-gray-200 p-4 bg-white"   
+
   - block: cta-image-paragraph
     id: solutions
     content:
