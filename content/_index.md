@@ -38,10 +38,10 @@ sections:
           filters:
             brightness: 0.5
   - block: cta-image-paragraph
-    id: about
+    id: research
     content:
       items:
-        - title: About us
+        - title: Research
           text: >
              Our algorithms combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve 
              computational scalability. The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible 
