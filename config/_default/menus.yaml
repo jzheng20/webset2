@@ -18,8 +18,8 @@ main:
   - name: Publications
     url: /#publications
     weight: 50
-  - name: Opportunities
-    url: /#opportunities
+  - name: Positions
+    url: /#positions
     weight: 60
   - name: Opportunities
     weight: 70
