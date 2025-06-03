@@ -37,14 +37,20 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
-  - block: text
+  - block: testimonials
     content:
-      title: "About Us"
-      text:  "Our research group focuses on the design and implementation of large-scale local and global" 
+      title: ""
+      text: ""
+      items:
+        - name: "Hugo Smith"
+          role: "Marketing Executive at X"
+          # Upload image to `assets/media/` and reference the filename here
+          image: "testimonial-1.jpg"
+          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
     design:
       spacing:
-        padding: [4rem, 0, 4rem, 0]
-      css_class: "bg-gray-100 dark:bg-gray-900"
+        # Reduce bottom spacing so the testimonial appears vertically centered between sections
+        padding: ["6rem", 0, 0, 0]
   - block: stats
     content:
       items:
