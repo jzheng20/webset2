@@ -84,7 +84,7 @@ sections:
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
   - block: features
-    id: features
+    id: news
     content:
       title: News
       text: Build your site with blocks 🧱
