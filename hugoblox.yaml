@@ -1,4 +1,4 @@
 build:
   hugo_version: '0.136.5'
-  favicon: "log1.png"
+  favicon: log1.png
 
