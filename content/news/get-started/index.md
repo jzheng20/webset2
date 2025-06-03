@@ -9,16 +9,14 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
-  - admin
-  - Ted
+  - 
 
 tags:
   - Academic
-  - Hugo Blox
   - Markdown
 ---
 
-Kaixun Hua’s work **"A Scalable Deterministic Global Optimization Algorithm for Training Optimal Decision Tree"** and Jiayang Ren’s work **"Global Optimal K-Medoids Clustering of One Million Samples"** are accepted by Conference on Neural Information Processing Systems (NeurIPS)! congratulation! 🎉 🎉 🎉 
+Kaixun Hua’s work **"A Scalable Deterministic Global Optimization Algorithm for Training Optimal Decision Tree"** and Jiayang Ren’s work **"Global Optimal K-Medoids Clustering of One Million Samples"** are accepted by Conference on Neural Information Processing Systems (NeurIPS)! Congratulation! 🎉 🎉 🎉 
 
 - 👉 [**NeurIPS1**](https://openreview.net/forum?id=-Oh_TKISy89)
 - 👉 [**NeurIPS2**](https://openreview.net/forum?id=SrwrRP3yfq8)
