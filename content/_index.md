@@ -148,10 +148,10 @@ sections:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-image-paragraph
-    id: opportunities
+    id: positions
     content:
       items:
-        - title: Opportunities
+        - title: Positions
           text: >
             We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. Please send your CV to yankai.cao@ubc.ca. 
             Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
