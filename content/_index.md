@@ -10,10 +10,13 @@ design:
 sections:
   - block: hero
     content:
-      title: About us
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: CAI4CAI
+      text: |
+      We are an academic research group focusing on **Contextual Artificial Intelligence** for **Computer Assisted Interventions**.
+
+      CAI4CAI is embedded in the [School of Biomedical Engineering & Imaging Sciences](https://www.kcl.ac.uk/bmeis) at [King’s College London](https://www.kcl.ac.uk/), UK.
       primary_action:
-        text: Get Started
+        text: Learn more
         url: https://hugoblox.com/templates/
         icon: rocket-launch
       secondary_action:
