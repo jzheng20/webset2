@@ -37,13 +37,10 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
-
   - block: text
     content:
       title: "About Us"
-      text:  Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision- 
-             making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks. Our algorithms 
-        
+      text:  "Our research group focuses on the design and implementation of large-scale local and global" 
     design:
       spacing:
         padding: [4rem, 0, 4rem, 0]
