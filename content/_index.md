@@ -224,7 +224,6 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
-
   - block: text
     id: positions
     content:
@@ -237,7 +236,6 @@ sections:
         padding: [5rem, 0, 5rem, 0]
       alignment: center
       css_class: "bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white"
-
   - block: cta-card
     id: positions
     content:
