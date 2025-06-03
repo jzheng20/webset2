@@ -234,12 +234,12 @@ sections:
             Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
             research summary, and future research plans (for postdocs). <br><br>
             <strong>To Ph.D./ Master Candidates</strong><br>
-           Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control 
-           Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.<br><br>
-           Please apply through [UBC Graduate School](https://www.grad.ubc.ca/prospective-students/application-admission).<br><br>
-           Applicants from a university in which English is not the primary language should meet the English Language requirements (GRE is not required). For TOEFL, the minimum 
-           overall score is 90 with minimum component scores of 22 [reading, listening] and 21 [writing, speaking]. For IELTS, A minimum overall band score of 6.5 is required with 
-           a minimum score of 6.0 in each component.<br><br>
+            Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control 
+            Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.<br><br>
+            Please apply through [UBC Graduate School](https://www.grad.ubc.ca/prospective-students/application-admission).<br><br>
+            Applicants from a university in which English is not the primary language should meet the English Language requirements (GRE is not required). For TOEFL, the minimum 
+            overall score is 90 with minimum component scores of 22 (reading, listening) and 21 (writing, speaking). For IELTS, A minimum overall band score of 6.5 is required 
+            with a minimum score of 6.0 in each component.<br><br>
           button:
             text: See Funding Opportunities
             url: funding/
