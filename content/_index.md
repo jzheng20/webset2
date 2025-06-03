@@ -152,7 +152,13 @@ sections:
     content:
       items:
         - title: Opportunities
-          text: As easy as 1, 2, 3!
+          text: >
+            We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. Please send your CV to yankai.cao@ubc.ca. 
+            Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
+            research summary, and future research plans (for postdocs). <br><br>
+            All graduate students are financially supported by either PI’s research funds or scholarships. Students holding major scholarships (e.g. NSERC) or other confirmed 
+            funding sources, are more likely to be accepted and should indicate this in their communication. Scholarship holders are also provided with an additional top-up from 
+            PI’s research funds.<br><br>
           feature_icon: check
           features:
             - "Future-proof - edit your content in text files"
