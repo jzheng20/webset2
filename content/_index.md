@@ -110,9 +110,9 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Posts
+      title: Publications
       subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      text: 'Check out our recent publications below!'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
