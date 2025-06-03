@@ -223,26 +223,7 @@ sections:
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
-  - block: cta-image-paragraph
-    id: positions
-    content:
-      items:
-        - title: Positions
-          text: >
-            We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. Please send your CV to yankai.cao@ubc.ca. 
-            Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
-            research summary, and future research plans (for postdocs). <br><br>
-            <strong>To Ph.D./ Master Candidates</strong><br>
-            Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control 
-            Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.<br><br>
-            Please apply through [UBC Graduate School](https://www.grad.ubc.ca/prospective-students/application-admission).
-          button:
-            text: See Funding Opportunities
-            url: funding/
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"  
+        padding: ["6rem", 0, 0, 0] 
   - block: cta-card
     content:
       title: Positions
@@ -251,11 +232,11 @@ sections:
             Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
             research summary, and future research plans (for postdocs). <br><br>
             <strong>To Ph.D./ Master Candidates</strong><br>
-            All graduate students are financially supported by either PI’s research funds or scholarships. Students holding major scholarships (e.g. NSERC) or other confirmed 
-            funding sources, are more likely to be accepted and should indicate this in their communication. Scholarship holders are also provided with an additional top-up from 
-            PI’s research funds.<br><br> 
+            Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control 
+            Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.<br><br>
+            Please apply through [UBC Graduate School](https://www.grad.ubc.ca/prospective-students/application-admission).
       button:
-        text: Funding Opportunities
+        text: See Funding Opportunities
         url: funding/
     design:
       card:
