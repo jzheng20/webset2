@@ -12,7 +12,7 @@ sections:
     content:
       title: '<strong>Now Solving:</strong> Global Optimal AI'
       filename: log1.png
-      text: '<p class="text-2xl font-light" style="font-family:Poppins, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks.</p>'
+      text: '<p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks.</p>'
       primary_action:
         text: Learn more
         url: https://hugoblox.com/templates/
