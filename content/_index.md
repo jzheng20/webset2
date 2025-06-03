@@ -49,7 +49,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - news
+          - blog
         author: ""
         category: ""
         tag: ""
