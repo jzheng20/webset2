@@ -6,17 +6,17 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: About
-    url: /#about
-    weight: 20
   - name: News
     url: /#news
+    weight: 20
+  - name: People
+    url: /#people
     weight: 30
-  - name: Features
-    url: /#features
+  - name: Research
+    url: /#research
     weight: 40
-  - name: Solutions
-    url: /#solutions
+  - name: Publications
+    url: /#publications
     weight: 50
   - name: Opportunities
     url: /#opportunities
