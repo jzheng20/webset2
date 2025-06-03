@@ -249,7 +249,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"  
   - block: cta-card
     content:
-      title: Build your future-proof website
+      title: Positions
       text: >
             We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. Please send your CV to yankai.cao@ubc.ca. 
             Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
@@ -258,7 +258,7 @@ sections:
             funding sources, are more likely to be accepted and should indicate this in their communication. Scholarship holders are also provided with an additional top-up from 
             PI’s research funds.<br><br> 
       button:
-        text: Get Started
+        text: Funding Opportunities
         url: funding/
     design:
       card:
