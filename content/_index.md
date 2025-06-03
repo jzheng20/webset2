@@ -242,10 +242,10 @@ sections:
           primary_action:
             text: Learn more
             url: https://hugoblox.com/templates/
-          image: 
+          image: build-website.png
           button:
-            text: Learn more
-            url: https://hugoblox.com/templates/
+            text: See Funding Opportunities
+            url: funding/
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"  
