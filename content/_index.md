@@ -230,7 +230,7 @@ sections:
       title: Positions
       text: >
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
-            <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Please send your CV to <span style="text-decoration: underline;">yankai.cao@ubc.ca.</span>. </p> 
+            <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Please <span class="font-bold">send your CV to</span> <span style="text-decoration: underline;">yankai.cao@ubc.ca.</span>. </p> 
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Please <span class="font-bold">provide the following information:</span>   degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs). </p>
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;"><strong>To Ph.D./ Master Candidates</strong></p>
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.</p>
