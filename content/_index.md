@@ -242,6 +242,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-gray-100 text-black dark:bg-gray-900 dark:text-white"
+        css_class: "bg-gray-900 dark:bg-gray-900 dark:text-white"
         css_style: ""
 ---
