@@ -224,7 +224,37 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
-
+  - block: features
+    id: positions
+    content:
+      title: People
+      text: >
+            We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. Please send your CV to yankai.cao@ubc.ca. 
+            Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
+            research summary, and future research plans (for postdocs). <br><br>
+            <strong>To Ph.D./ Master Candidates</strong><br>
+            Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control 
+            Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.<br><br>
+            Please apply through [UBC Graduate School](https://www.grad.ubc.ca/prospective-students/application-admission).
+      items:
+        - name: Optimized SEO
+          icon: magnifying-glass
+          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
+        - name: Fast
+          icon: bolt
+          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
+        - name: Easy
+          icon: sparkles
+          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
+        - name: No-Code
+          icon: code-bracket
+          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
+        - name: Highly Rated
+          icon: star
+          description: Rated 5-stars by the community.
+        - name: Swappable Blocks
+          icon: rectangle-group
+          description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
     id: positions
     content:
