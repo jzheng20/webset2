@@ -29,6 +29,7 @@ marketing:
 # Site header
 header:
   navbar:
+    ss_class: "font-serif"
     enable: true
     blox: "navbar"
     align: "center"
