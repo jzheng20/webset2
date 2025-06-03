@@ -43,11 +43,9 @@ sections:
       items:
         - title: About us
           text: >
-             Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision- 
-             making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks. Our algorithms 
-             combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve computational 
-             scalability. The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible software 
-             libraries.<br><br>
+             Our algorithms combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve 
+             computational scalability. The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible 
+             software libraries.<br><br>
              Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
              domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
              large networks, estimation of microbial growth models, and image classification for contaminant detection. <br><br>
