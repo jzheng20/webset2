@@ -25,5 +25,5 @@ main:
     weight: 70
     hasChildren: true
   - parent: Opportunities
-    name: Postdocs
+    name: Funding Opportunities for Postdocs
     url: blog/
