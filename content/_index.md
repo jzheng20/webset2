@@ -61,7 +61,7 @@ sections:
   - block: features
     id: features
     content:
-      title: About us
+      title: News
       text: Build your site with blocks 🧱
       items:
         - name: Optimized SEO
