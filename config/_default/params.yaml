@@ -34,7 +34,7 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: '<span style="font-family:Poppins, sans-serif; font-weight:600; font-size:1.2rem; color:#111;">Cao <span style="color:#DA0037">Research Group</span></span>'
+      text: "Cao Research Group"
       # Logo filename in `assets/media/` folder
       filename: "log1.png"
     button:
