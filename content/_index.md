@@ -40,9 +40,7 @@ sections:
   - block: testimonials
     content:
       title: ""
-      text: ""
-      items:
-        -text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+      text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!" 
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
