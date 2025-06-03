@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: CAI4CAI
-      text: |We are an academic research group f
+      text: We are an academic research group f
       primary_action:
         text: Learn more
         url: https://hugoblox.com/templates/
