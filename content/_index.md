@@ -158,16 +158,11 @@ sections:
             research summary, and future research plans (for postdocs). <br><br>
             All graduate students are financially supported by either PI’s research funds or scholarships. Students holding major scholarships (e.g. NSERC) or other confirmed 
             funding sources, are more likely to be accepted and should indicate this in their communication. Scholarship holders are also provided with an additional top-up from 
-            PI’s research funds.<br><br>
-          feature_icon: check
-          features:
-            - "Funding Opportunities for Postdocs"
-            - "Funding Opportunities for Graduate Students"
-            - "Funding Opportunities for Undergraduate Students"
+            PI’s research funds.<br><br> 
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
-            text: Get Started
+            text: Learn more
             url: https://hugoblox.com/templates/
     design:
       # Section background color (CSS class)
