@@ -229,7 +229,8 @@ sections:
     content:
       title: People
       text: >
-            We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. Please send your CV to yankai.cao@ubc.ca. 
+            '<p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>'
+            Please send your CV to yankai.cao@ubc.ca. 
             Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
             research summary, and future research plans (for postdocs). <br><br>
             <strong>To Ph.D./ Master Candidates</strong><br>
@@ -255,48 +256,5 @@ sections:
         - name: Swappable Blocks
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
-  - block: cta-image-paragraph
-    id: positions
-    content:
-      items:
-        - title: Positions
-          text: >
-            We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. Please send your CV to yankai.cao@ubc.ca. 
-            Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
-            research summary, and future research plans (for postdocs). <br><br>
-            <strong>To Ph.D./ Master Candidates</strong><br>
-            Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control 
-            Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.<br><br>
-            Please apply through [UBC Graduate School](https://www.grad.ubc.ca/prospective-students/application-admission).
-          # Upload image to `assets/media/` and reference the filename here
-          primary_action:
-            text: Learn more
-            url: https://hugoblox.com/templates/
-          image: build-website.png
-          button:
-            text: See Funding Opportunities
-            url: funding/
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"  
-  - block: cta-card
-    id: positions
-    content:
-      title: Positions
-      text: >
-            We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. Please send your CV to yankai.cao@ubc.ca. 
-            Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
-            research summary, and future research plans (for postdocs). <br><br>
-            To Ph.D./ Master Candidates<br>
-            Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control 
-            Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.<br><br>
-            Please apply through [UBC Graduate School](https://www.grad.ubc.ca/prospective-students/application-admission).
-      button:
-        text: See Funding Opportunities
-        url: funding/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-gray-500 dark:bg-gray-900 dark:text-white"
-        css_style: ""
+ 
 ---
