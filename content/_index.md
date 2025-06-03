@@ -229,8 +229,8 @@ sections:
     content:
       title: Positions
       text: >
-            '<p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>'
-            Please send your CV to yankai.cao@ubc.ca. 
+            '<p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>' <br><br>
+            '<p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Please send your CV to yankai.cao@ubc.ca. </p>' <br><br>
             Please provide the following information:  degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, 
             research summary, and future research plans (for postdocs). <br><br>
             <strong>To Ph.D./ Master Candidates</strong><br>
