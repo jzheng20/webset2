@@ -227,7 +227,7 @@ sections:
   - block: features
     id: positions
     content:
-      title: Positions
+      title: <p class="text-2xl font-bold" style="font-family:Times New Roman, sans-serif;">Positions</p>
       text: >
             <p class="text-2xl font-bold" style="font-family:Times New Roman, sans-serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉 Please <span class="font-bold">send your CV to</span> <span style="text-decoration: underline;">yankai.cao@ubc.ca.</span>. </p> 
