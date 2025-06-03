@@ -148,10 +148,10 @@ sections:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-image-paragraph
-    id: solutions
+    id: opportunities
     content:
       items:
-        - title: Build your future-proof website
+        - title: Opportunities
           text: As easy as 1, 2, 3!
           feature_icon: check
           features:
