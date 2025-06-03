@@ -174,7 +174,7 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: card                    
+      view: compact                   
       columns: '1'       
   - block: cta-image-paragraph
     id: solutions
