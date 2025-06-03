@@ -31,7 +31,7 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "bg-white"
       background:
-        color: "navy"
+        color: "white"
         image:
           # Add your image background to `assets/media/`.
           filename: bg-triangles.svg
