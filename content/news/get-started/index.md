@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 Two Papers Accepted by NeurIPS
+summary: Kaixun Hua’s work “A Scalable Deterministic Global Optimization Algorithm for Training Optimal Decision Tree” and Jiayang Ren’s work “Global Optimal K-Medoids Clustering of One Million Samples” are accepted by Conference on Neural Information Processing Systems (NeurIPS).
+date: 2022-9-16
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
