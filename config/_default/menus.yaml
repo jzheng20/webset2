@@ -21,9 +21,9 @@ main:
   - name: Opportunities
     url: /#opportunities
     weight: 60
-  - name: Resources
+  - name: Opportunities
     weight: 70
     hasChildren: true
-  - parent: Resources
-    name: Blog
+  - parent: Opportunities
+    name: Postdocs
     url: blog/
