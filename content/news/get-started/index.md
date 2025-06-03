@@ -25,9 +25,7 @@ Kaixun Hua’s work “A Scalable Deterministic Global Optimization Algorithm fo
  
 
 - 👉 [**NeurIPS1**](https://openreview.net/forum?id=-Oh_TKISy89)
-- 📚 [**NeurIPS2**](https://openreview.net/forum?id=SrwrRP3yfq8)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
+- 📚 [**NeurIPS2**](https://openreview.net/forum?id=SrwrRP3yfq8) 
 - 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
 - ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
  
