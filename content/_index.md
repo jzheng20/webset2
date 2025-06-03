@@ -46,7 +46,7 @@ sections:
           features:
             - "Our algorithms combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve computational scalability."
             - "The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible software libraries."
-            - "Share your site and get feedback"
+            - "Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in large networks, estimation of microbial growth models, and image classification for contaminant detection."
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
