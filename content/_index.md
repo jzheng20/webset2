@@ -12,9 +12,7 @@ sections:
     content:
       title: CAI4CAI
       text: |
-      We are an academic research group focusing on **Contextual Artificial Intelligence** for **Computer Assisted Interventions**.
-
-      CAI4CAI is embedded in the [School of Biomedical Engineering & Imaging Sciences](https://www.kcl.ac.uk/bmeis) at [King’s College London](https://www.kcl.ac.uk/), UK.
+      We are an academic research group f
       primary_action:
         text: Learn more
         url: https://hugoblox.com/templates/
