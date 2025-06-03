@@ -52,7 +52,7 @@ sections:
              domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
              large networks, estimation of microbial growth models, and image classification for contaminant detection. <br><br>
           # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
+          image: aboutus.png
           button:
             text: Joint us
             url: https://hugoblox.com/templates/
