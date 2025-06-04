@@ -9,5 +9,5 @@ user_groups:
 email: "kaixun.hua@ubc.ca"
 superuser: false
 authors:
-  - jzheng
+  - jingjingzheng
 ---
