@@ -238,7 +238,7 @@ sections:
       text: Build your site with blocks 🧱
       items:
         - name: Optimized SEO
-          icon: <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
+          image: <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
           description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
         - name: Fast
           icon: bolt
