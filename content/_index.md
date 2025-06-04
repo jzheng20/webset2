@@ -143,15 +143,17 @@ sections:
     content:
       title: <p class="text-5xl font-bold" style="font-family:Times New Roman, sans-serif;">Members</p>
       text: |
-        <p class="text-4xl font-extrabold text-center">Principal Investigator</p>
+        <p class="text-4xl font-bold text-center" style="font-family:Times New Roman, sans-serif;">Principal Investigator</p>
         <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 gap-10 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-10.1 h-10.1 object-cover" alt="Yankai Cao">
+            <img src="/media/testimonial-1.jpg" ial-1.jpg" style="width: 2.6rem; height: 2.6rem;"  class="rounded-full object-cover">
             <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
             <p class="text-xl font-semibold">Associate Professor</p>
-            <p class="text-xl text-gray-600">Global Optimization, UBC</p>
-            <p class="text-xl text-black">E-mail: yankai.cao@ubc.ca</p>
+            <p class="text-xl text-gray-600">UBC</p>
+            <p class="text-xl text-gray-600">Office: CHBE 237</p>
+            <p class="text-xl text-gray-600">E-mail: yankai.cao@ubc.ca</p>
+            <p class="text-xl text-gray-600">Research: Machine Learning, Large-scale Optimization, Energy Systems, Process Control</p>
             <div class="flex space-x-2 text-gray-500">
               <a href="https://scholar.google.com/" target="_blank"><i class="lab la-google"></i></a>
               <a href="https://www.linkedin.com/" target="_blank"><i class="lab la-linkedin"></i></a>
