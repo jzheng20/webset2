@@ -143,14 +143,14 @@ sections:
       text: |
         <div class="grid grid-cols-2 gap-6">
           <div class="flex items-center space-x-4">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-10 h-10" alt="Kaixun">
+            <img src="/media/testimonial-1.jpg" class="rounded-full w-12 h-12" alt="Kaixun">
             <div>
               <h3 class="text-xl font-bold">Dr. Kaixun Hua</h3>
               <p>Postdoc – Global Optimization</p>
             </div>
           </div>
           <div class="flex items-center space-x-4">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-10 h-10" alt="Jiayang">
+            <img src="/media/testimonial-1.jpg" class="rounded-full w-12 h-12" alt="Jiayang">
             <div>
               <h3 class="text-xl font-bold">Jiayang Ren</h3>
               <p>Ph.D. Student – Clustering</p>
