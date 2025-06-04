@@ -178,7 +178,7 @@ sections:
           <!-- Member 2 -->
           <div class="flex flex-col items-center max-w-lg mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
-            <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Mohammad Aliahmadi</a></h4>
+            <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"><span class="font-bold">Mohammad Aliahmadi</span></a></h4>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;"> Started 2021</p>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Email: aahmadim@mail.ubc.ca</p>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Research: Optimization of Biomass Supply Chains</p>
