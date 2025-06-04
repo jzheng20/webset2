@@ -136,31 +136,37 @@ sections:
       columns: '1'                   
       card:
         css_class: "shadow-lg rounded-xl border border-gray-200 p-4 bg-white"
+
+  - block: text
+    id: members
+    content:
+      title: |
+        <p class="text-5xl font-extrabold text-center">Members</p>
+      text: ""
+
   - block: markdown
     id: members
     content:
-      title: "Members"
+      title: "Professor"
       text: |
-        <div class="grid grid-cols-2 gap-6">
-          <div class="flex items-center space-x-4">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-12 h-12" alt="Kaixun">
-            <div>
-              <h3 class="text-xl font-bold">Dr. Kaixun Hua</h3>
-              <p>Postdoc – Global Optimization</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 text-center">
+          <!-- Member 1 -->
+          <div class="flex flex-col items-center space-y-2">
+            <img src="/media/testimonial-1.jpg" class="rounded-full w-15 h-15 object-cover" alt="Kaixun Hua">
+            <h3 class="text-xl font-bold text-red-600">Dr. Kaixun Hua</h3>
+            <p class="text-sm font-semibold">Postdoctoral Researcher</p>
+            <p class="text-sm text-gray-600">Global Optimization, UBC</p>
+            <div class="flex space-x-2 text-gray-500">
+              <a href="https://scholar.google.com/" target="_blank"><i class="lab la-google"></i></a>
+              <a href="https://www.linkedin.com/" target="_blank"><i class="lab la-linkedin"></i></a>
+              <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
             </div>
-          </div>
-          <div class="flex items-center space-x-4">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-12 h-12" alt="Jiayang">
-            <div>
-              <h3 class="text-xl font-bold">Jiayang Ren</h3>
-              <p>Ph.D. Student – Clustering</p>
-            </div>
-          </div>
+          </div> 
         </div>
   - block: markdown
-    id: team
+    id: members
     content:
-      title: "Members"
+      title: "Postdocs"
       text: |
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 text-center">
           <!-- Member 1 -->
