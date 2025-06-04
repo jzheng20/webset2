@@ -137,7 +137,7 @@ sections:
       card:
         css_class: "shadow-lg rounded-xl border border-gray-200 p-4 bg-white"
 
-  - block: text
+  - block: markdown
     id: members
     content:
       title: |
