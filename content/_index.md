@@ -143,7 +143,6 @@ sections:
       title: |
         <p class="text-5xl font-extrabold text-center">Members</p>
       text: ""
-
   - block: markdown
     id: members
     content:
@@ -171,7 +170,7 @@ sections:
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-15 h-15 object-cover" alt="Kaixun Hua">
+            <img src="/media/testimonial-1.jpg" class="rounded-full w-13 h-13 object-cover" alt="Kaixun Hua">
             <h3 class="text-xl font-bold text-red-600">Dr. Kaixun Hua</h3>
             <p class="text-sm font-semibold">Postdoctoral Researcher</p>
             <p class="text-sm text-gray-600">Global Optimization, UBC</p>
@@ -183,7 +182,7 @@ sections:
           </div>
           <!-- Member 2 -->
           <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-15 h-15 object-cover" alt="Jiayang Ren">
+            <img src="/media/testimonial-1.jpg" class="rounded-full w-13 h-13 object-cover" alt="Jiayang Ren">
             <h3 class="text-xl font-bold text-red-600">Jiayang Ren</h3>
             <p class="text-sm font-semibold">Ph.D. Student</p>
             <p class="text-sm text-gray-600">Clustering, UBC</p>
