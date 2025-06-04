@@ -1,4 +1,11 @@
-name: Jingjing Zheng
-role: PhD Student
+---
+title: Jingjing Zheng"
+role: "Ph.D. Student"
+organizations:
+  - name: "UBC"
+    url: "https://ubc.ca"
 user_groups:
-  - Grad Students
+  - Administration
+email: "kaixun.hua@ubc.ca"
+superuser: false
+---
