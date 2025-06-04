@@ -145,7 +145,7 @@ sections:
       text: |
         <p class="text-4xl font-bold text-center" style="font-family:Times New Roman, sans-serif;">Principal Investigator</p>
         <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 gap-10 text-center">
-          <!-- Member 1 -->
+          <!-- Principal Investigator -->
           <div class="flex flex-col items-center space-y-2">
             <img src="/media/testimonial-1.jpg"   style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
             <h3 class="text-xl font-semibold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
@@ -161,8 +161,8 @@ sections:
           </div> 
         </div>
         <p class="text-4xl font-bold text-center" style="font-family:Times New Roman, sans-serif;">PhD students</p>
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-x-12 gap-y-16 -mx-40 w-full mx-auto text-center">
-          <!-- Member 1 -->
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-5 gap-x-12 gap-y-16 -mx-40 w-full mx-auto text-center">
+          <!-- PhD students Member 1 -->
           <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
             <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Jiayang Ren</a></h4>
@@ -175,7 +175,7 @@ sections:
               <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
             </div>
           </div>
-          <!-- Member 2 -->
+          <!-- PhD students Member 2 -->
           <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
             <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"><span class="font-bold">Mohammad Aliahmadi</span></a></h4>
@@ -188,7 +188,7 @@ sections:
               <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
             </div>
           </div>
-          <!-- Member 3 -->
+          <!-- PhD students Member 3 -->
           <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
             <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Chaojie Ji</a></h4>
@@ -201,7 +201,20 @@ sections:
               <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
             </div>
           </div>
-          <!-- Member 4 -->
+          <!-- PhD students Member 4 -->
+          <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
+            <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
+            <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Qiangqiang Mao</a></h4>
+            <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Started 2021</p>
+            <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Email: maoq@mail.ubc.ca</p>
+            <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Research: Biomass-Based Carbon Removal Processes Through Machine Learning</p>
+            <div class="flex space-x-2 text-gray-500">
+              <a href="https://scholar.google.com/" target="_blank"><i class="lab la-google"></i></a>
+              <a href="https://www.linkedin.com/" target="_blank"><i class="lab la-linkedin"></i></a>
+              <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
+            </div>
+          </div>
+          <!-- PhD students Member 5 -->
           <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
             <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Qiangqiang Mao</a></h4>
@@ -215,6 +228,7 @@ sections:
             </div>
           </div>
         </div>
+        
  
   
   - block: features
