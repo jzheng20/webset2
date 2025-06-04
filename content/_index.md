@@ -251,18 +251,7 @@ sections:
           description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
         - name: Highly Rated
           icon: star
-          description:    <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
-            <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
-            <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Chaojie Ji</a></h4>
-            <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Started 2022</p>
-            <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Email: chaojiej@math.ubc.ca</p>
-            <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Research: Global Optimal Machine Learning</p>
-            <div class="flex space-x-2 text-gray-500">
-              <a href="https://scholar.google.com/" target="_blank"><i class="lab la-google"></i></a>
-              <a href="https://www.linkedin.com/" target="_blank"><i class="lab la-linkedin"></i></a>
-              <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
-            </div>
-          </div>
+          description:    
         - name: Swappable Blocks
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!   
