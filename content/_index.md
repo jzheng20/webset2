@@ -144,10 +144,10 @@ sections:
       title: <p class="text-5xl font-bold" style="font-family:Times New Roman, sans-serif;">Members</p>
       text: |
         <p class="text-2xl font-extrabold text-center">Professor</p>
-        <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 gap-10 text-center">
+        <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 gap-10 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-15 h-15 object-cover" alt="Kaixun Hua">
+            <img src="/media/testimonial-1.jpg" class="rounded-full w-13 h-13 object-cover" alt="Kaixun Hua">
             <h3 class="text-xl font-bold text-red-600">Dr. Kaixun Hua</h3>
             <p class="text-sm font-semibold">Postdoctoral Researcher</p>
             <p class="text-sm text-gray-600">Global Optimization, UBC</p>
