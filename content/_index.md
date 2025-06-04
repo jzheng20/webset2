@@ -228,7 +228,17 @@ sections:
             </div>
           </div>
         </div> 
- 
+  - block: people
+    id: members
+    headless: true
+    content:
+      title: Meet Our Team
+      user_groups:
+        - Grad Students
+    design:
+      show_social: true
+      show_role: true
+
   - block: features
     id: people
     content:
