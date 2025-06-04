@@ -229,7 +229,7 @@ sections:
         </div>
     design:
       view: card                    
-      columns: '1'
+      columns: '5'
  
 
   - block: features
