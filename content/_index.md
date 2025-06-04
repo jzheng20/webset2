@@ -91,30 +91,31 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: features
-    id: people
+  - block: people
+    id: solutions
+    headless: true  # This file represents a page section.
+
+ 
+
     content:
-      title: People
-      text: Build your site with blocks 🧱
-      items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+       # Choose which groups/teams of users to display.
+       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+    user_groups:
+      #- Principal Investigators
+      #- Researchers
+      #- Grad Students
+      - Administration
+      #- Visitors
+      #- Alumni
+    design:
+      # Show user's social networking links? (true/false)
+      show_social: false
+      # Show user's interests? (true/false)
+      show_interests: true
+      # Show user's role?
+      show_role: true
+      # Show user's organizations/affiliations?
+      show_organizations: true
   - block: collection
     id: publications
     content:
