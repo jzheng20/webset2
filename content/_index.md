@@ -165,7 +165,7 @@ sections:
           <!-- Member 1 -->
           <div class="flex flex-col items-center max-w-lg mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
-            <h3 class="text-lg font-light" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Jiayang Ren</a></h3>
+            <h4 class="text-lg font-light" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Jiayang Ren</a></h4>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Started 2021</p>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">E-mail: rjy12307@mail.ubc.ca</p>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Research: Deep Learning-based Model Predictive Control</p>
@@ -178,7 +178,7 @@ sections:
           <!-- Member 2 -->
           <div class="flex flex-col items-center max-w-lg mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
-            <h3 class="text-lg font-light" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Mohammad Aliahmadi</a></h3>
+            <h4 class="text-lg font-light" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Mohammad Aliahmadi</a></h4>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;"> Started 2021</p>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Email: aahmadim@mail.ubc.ca</p>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Research: Optimization of Biomass Supply Chains</p>
@@ -191,7 +191,7 @@ sections:
           <!-- Member 3 -->
           <div class="flex flex-col items-center max-w-lg mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
-            <h3 class="text-lg font-light" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Chaojie Ji</a></h3>
+            <h4 class="text-lg font-light" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Chaojie Ji</a></h4>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Started 2022</p>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Email: chaojiej@math.ubc.ca</p>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Research: Global Optimal Machine Learning</p>
