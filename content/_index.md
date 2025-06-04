@@ -143,7 +143,7 @@ sections:
       text: |
         <div class="grid grid-cols-2 gap-6">
           <div class="flex items-center space-x-4">
-            <img src="testimonial-1.jpg" class="rounded-full w-20 h-20" alt="Kaixun">
+            <img src="assets/media/testimonial-1.jpg" class="rounded-full w-20 h-20" alt="Kaixun">
             <div>
               <h3 class="text-xl font-bold">Dr. Kaixun Hua</h3>
               <p>Postdoc – Global Optimization</p>
