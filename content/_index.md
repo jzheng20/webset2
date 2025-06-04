@@ -228,14 +228,7 @@ sections:
             </div>
           </div>
         </div> 
-  - block: people
-    id: people
-    content:
-      title: People
-      text: Build your site with blocks 🧱
-      content:
-        user_groups:
-          - Grad Students 
+ 
   - block: features
     id: people
     content:
@@ -303,6 +296,20 @@ sections:
             <p class="text-2xl mb-8 font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉  <a href="funding/"> Here is for <span style="text-decoration: underline;">Funding Opportunities</span> </a>. </p>
             <p class="text-3xl font-bold" style="font-family:Times New Roman, sans-serif;"><strong>To Ph.D./ Master Candidates: </strong></p>
             <p class="text-2xl font-light italic" style="font-family:Times New Roman, sans-serif;">Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.</p>
+
+widget: people
+active: true
+headless: true
+title: Meet Our Team
+content:
+  user_groups:
+    - Grad Students
+design:
+  show_social: true
+  show_interests: false
+  show_role: true
+  show_organizations: true
+
 
 ---
  
