@@ -215,11 +215,8 @@ sections:
             </div>
           </div>
         </div>
-    design:
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+    design: 
+      css_class: "bg-gray-100 dark:bg-gray-900 max-w-screen-2xl mx-auto"
   
   - block: features
     id: people
