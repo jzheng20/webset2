@@ -161,7 +161,7 @@ sections:
           </div> 
         </div>
         <p class="text-4xl font-bold text-center" style="font-family:Times New Roman, sans-serif;">PhD students</p>
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-20 w-full px-10">
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-20 text-center w-full px-30">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
