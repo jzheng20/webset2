@@ -226,7 +226,10 @@ sections:
               <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
             </div>
           </div>
-        </div> 
+        </div>
+    design:
+      view: card                    
+      columns: '1'
  
 
   - block: features
