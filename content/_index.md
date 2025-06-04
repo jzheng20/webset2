@@ -233,7 +233,7 @@ sections:
     id: team
     content:
       title: Meet Our Team
-      user_groups: ["Principal Investigators", "Administration"] 
+      user_groups: ["Principal Investigators", "Grad Students"] 
   - block: features
     id: people
     content:
