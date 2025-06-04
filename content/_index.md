@@ -144,9 +144,9 @@ sections:
         <p class="text-5xl font-extrabold text-center">Members</p>
       text: ""
   - block: markdown
-    id: members
+    id: members1
     content:
-      title: "Professor"
+      title: Professor
       text: |
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 text-center">
           <!-- Member 1 -->
@@ -163,9 +163,9 @@ sections:
           </div> 
         </div>
   - block: markdown
-    id: members
+    id: members2
     content:
-      title: "Postdocs"
+      title: Postdocs
       text: |
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 text-center">
           <!-- Member 1 -->
