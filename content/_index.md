@@ -91,22 +91,20 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: people
-    id: solutions
+  - block: testimonials
     content:
-       # Choose which groups/teams of users to display.
-       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-        - Administration
+      title: ""
+      text: ""
+      items:
+        - name: "Hugo Smith"
+          role: "Marketing Executive at X"
+          # Upload image to `assets/media/` and reference the filename here
+          image: "testimonial-1.jpg"
+          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
     design:
-      # Show user's social networking links? (true/false)
-      show_social: false
-      # Show user's interests? (true/false)
-      show_interests: false
-      # Show user's role?
-      show_role: true
-      # Show user's organizations/affiliations?
-      show_organizations: true
+      spacing:
+        # Reduce bottom spacing so the testimonial appears vertically centered between sections
+        padding: ["6rem", 0, 0, 0]
   - block: collection
     id: publications
     content:
