@@ -8,4 +8,6 @@ user_groups:
   - Administration
 email: "kaixun.hua@ubc.ca"
 superuser: false
+authors:
+  - jzheng
 ---
