@@ -100,8 +100,8 @@ sections:
       user_groups:
         #- Principal Investigators
         #- Researchers
-        #- Grad Students
-        - Administration
+        - Grad Students
+        #- Administration
         #- Visitors
         #- Alumni
     design:
