@@ -161,9 +161,9 @@ sections:
           </div> 
         </div>
         <p class="text-4xl font-bold text-center" style="font-family:Times New Roman, sans-serif;">PhD students</p>
-        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-5 gap-x-16 gap-y-16 -mx-40 w-full mx-auto text-center">
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-5 gap-x-12 gap-y-16 -mx-40 w-full mx-auto text-center">
           <!-- PhD students Member 1 -->
-          <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
+          <div class="flex flex-col items-center max-w-xl mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
             <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Jiayang Ren</a></h4>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Started 2021</p>
@@ -176,7 +176,7 @@ sections:
             </div>
           </div>
           <!-- PhD students Member 2 -->
-          <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
+          <div class="flex flex-col items-center max-w-xl mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
             <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"><span class="font-bold">Mohammad Aliahmadi</span></a></h4>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;"> Started 2021</p>
@@ -189,7 +189,7 @@ sections:
             </div>
           </div>
           <!-- PhD students Member 3 -->
-          <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
+          <div class="flex flex-col items-center max-w-xl mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
             <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Chaojie Ji</a></h4>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Started 2022</p>
@@ -202,7 +202,7 @@ sections:
             </div>
           </div>
           <!-- PhD students Member 4 -->
-          <div class="flex flex-col items-center max-w-prose mx-auto space-y-2">
+          <div class="flex flex-col items-center max-w-xl mx-auto space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover">
             <h4 class="text-xl font-bold" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800">Qiangqiang Mao</a></h4>
             <p class="text-lg text-gray-600" style="font-family:Times New Roman, sans-serif;">Started 2021</p>
