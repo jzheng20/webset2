@@ -137,7 +137,18 @@ sections:
       card:
         css_class: "shadow-lg rounded-xl border border-gray-200 p-4 bg-white"
 
- 
+  - block: people
+    id: members
+    headless: true
+    content:
+      title: Our Team
+      user_groups:
+        - Grad Students
+    design:
+      show_role: true
+      show_social: true
+      show_organizations: true
+
   - block: testimonials
     id: members
     content:
