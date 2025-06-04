@@ -227,24 +227,4 @@ sections:
             <p class="text-2xl mb-8 font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉  <a href="funding/"> Here is for <span style="text-decoration: underline;">Funding Opportunities</span> </a>. </p>
             <p class="text-3xl font-bold" style="font-family:Times New Roman, sans-serif;"><strong>To Ph.D./ Master Candidates: </strong></p>
             <p class="text-2xl font-light italic" style="font-family:Times New Roman, sans-serif;">Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.</p>
-      items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
- 
 ---
