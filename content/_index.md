@@ -228,9 +228,12 @@ sections:
             </div>
           </div>
         </div>
-        
  
-  
+  - block: people
+    id: team
+    content:
+      title: Meet Our Team
+      user_groups: ["Principal Investigators", "Administration"] 
   - block: features
     id: people
     content:
