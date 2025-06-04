@@ -137,20 +137,20 @@ sections:
       card:
         css_class: "shadow-lg rounded-xl border border-gray-200 p-4 bg-white"
   - block: markdown
-    id: team
+    id: people
     content:
-      title: "Our Team"
+      title: "Members"
       markdown: |
         <div class="grid grid-cols-2 gap-6">
           <div class="flex items-center space-x-4">
-            <img src="/media/kaixun.jpg" class="rounded-full w-20 h-20" alt="Kaixun">
+            <img src="testimonial-1.jpg" class="rounded-full w-20 h-20" alt="Kaixun">
             <div>
               <h3 class="text-xl font-bold">Dr. Kaixun Hua</h3>
               <p>Postdoc – Global Optimization</p>
             </div>
           </div>
           <div class="flex items-center space-x-4">
-            <img src="/media/jiayang.jpg" class="rounded-full w-20 h-20" alt="Jiayang">
+            <img src="testimonial-1.jpg" class="rounded-full w-20 h-20" alt="Jiayang">
             <div>
               <h3 class="text-xl font-bold">Jiayang Ren</h3>
               <p>Ph.D. Student – Clustering</p>
