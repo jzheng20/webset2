@@ -1,1 +1,46 @@
+{{/* Hugo Blox: People block */}}
+
+{{ $users := site.Pages | where "Section" "authors" }}
+{{ $groups := .content.user_groups | default (slice) }}
+
+{{ $users := $users | where ".Params.user_groups" "intersect" $groups }}
+
+<section id="{{ .id | default "people" }}" class="flex flex-col {{ .design.css_class }}">
+  <div class="section-heading">
+    {{ with .content.title }}
+      <h1>{{ . }}</h1>
+    {{ end }}
+  </div>
+
+  <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-8">
+    {{ range $users }}
+      <div class="text-center space-y-2">
+        {{ $avatar := .Params.avatar.image | default "avatar.png" }}
+        <img src="{{ printf "/media/%s" $avatar | relURL }}" class="rounded-full w-24 h-24 object-cover mx-auto">
+        <div>
+          <p class="font-bold">{{ .Title }}</p>
+          {{ if $.design.show_role }}
+            <p class="text-sm text-gray-500">{{ .Params.role }}</p>
+          {{ end }}
+          {{ if $.design.show_organizations }}
+            {{ with .Params.organizations }}
+              {{ range . }}
+                <p class="text-sm text-gray-500">{{ .name }}</p>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </div>
+        {{ if $.design.show_social }}
+          <div class="flex justify-center space-x-2 text-gray-500 text-lg">
+            {{ range .Params.social }}
+              <a href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+                <i class="{{ .icon_pack }} fa-{{ .icon }}"></i>
+              </a>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</section>
 
