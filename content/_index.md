@@ -287,7 +287,7 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: features
+  - block: hero
     id: positions
     content:
       title: <p class="text-5xl font-bold" style="font-family:Times New Roman, sans-serif;">Positions</p>
