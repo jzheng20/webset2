@@ -140,7 +140,7 @@ sections:
     id: people
     content:
       title: "Members"
-      markdown: |
+      text: |
         <div class="grid grid-cols-2 gap-6">
           <div class="flex items-center space-x-4">
             <img src="testimonial-1.jpg" class="rounded-full w-20 h-20" alt="Kaixun">
