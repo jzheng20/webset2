@@ -138,7 +138,7 @@ sections:
         css_class: "shadow-lg rounded-xl border border-gray-200 p-4 bg-white"
 
  
-  - block: cta-image-paragraph
+  - block: collection
     id: members
     content:
       title: <p class="text-5xl font-bold" style="font-family:Times New Roman, sans-serif;">Members</p>
