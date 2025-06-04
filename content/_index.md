@@ -137,19 +137,14 @@ sections:
       card:
         css_class: "shadow-lg rounded-xl border border-gray-200 p-4 bg-white"
 
-  - block: markdown
-    id: members
-    content:
-      title: |
-        <p class="text-5xl font-extrabold text-center">Members</p>
-      text: ""
+ 
   - block: markdown
     id: members1
     content:
-      title: Professor
+      title: <p class="text-5xl font-bold" style="font-family:Times New Roman, sans-serif;">Members</p>
       text: |
-        <p class="text-5xl font-extrabold text-center">Members</p>
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 text-center">
+        <p class="text-2xl font-extrabold text-center">Professor</p>
+        <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 gap-10 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
             <img src="/media/testimonial-1.jpg" class="rounded-full w-15 h-15 object-cover" alt="Kaixun Hua">
