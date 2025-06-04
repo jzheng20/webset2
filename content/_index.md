@@ -147,7 +147,7 @@ sections:
         <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 gap-10 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" ial-1.jpg" style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
+            <img src="/media/testimonial-1.jpg"   style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
             <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
             <p class="text-xl font-semibold">Associate Professor, UBC</p>
             <p class="text-sm text-gray-600">Office: CHBE 237</p>
@@ -160,16 +160,15 @@ sections:
             </div>
           </div> 
         </div>
-        <p class="text-4xl font-bold text-center" style="font-family:Times New Roman, sans-serif;">Postdocs</p>
-        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-10 text-center">
+        <p class="text-4xl font-bold text-center" style="font-family:Times New Roman, sans-serif;">PhD students</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-15 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" ial-1.jpg" style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
-            <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
-            <p class="text-xl font-semibold">Associate Professor, UBC</p>
-            <p class="text-sm text-gray-600">Office: CHBE 237</p>
-            <p class="text-sm text-gray-600">E-mail: yankai.cao@ubc.ca</p>
-            <p class="text-sm text-gray-600">Research: Machine Learning, Large-scale Optimization, Energy Systems, Process Control</p>
+            <img src="/media/testimonial-1.jpg"  style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
+            <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Jiayang Ren</a></h3>
+            <p class="text-xl font-semibold">Ph.D. student, 2021-</p>
+            <p class="text-sm text-gray-600">E-mail: rjy12307@mail.ubc.ca</p>
+            <p class="text-sm text-gray-600">Research: Deep Learning-based Model Predictive Control</p>
             <div class="flex space-x-2 text-gray-500">
               <a href="https://scholar.google.com/" target="_blank"><i class="lab la-google"></i></a>
               <a href="https://www.linkedin.com/" target="_blank"><i class="lab la-linkedin"></i></a>
@@ -178,12 +177,11 @@ sections:
           </div>
           <!-- Member 2 -->
           <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" ial-1.jpg" style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
-            <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
-            <p class="text-xl font-semibold">Associate Professor, UBC</p>
-            <p class="text-sm text-gray-600">Office: CHBE 237</p>
-            <p class="text-sm text-gray-600">E-mail: yankai.cao@ubc.ca</p>
-            <p class="text-sm text-gray-600">Research: Machine Learning, Large-scale Optimization, Energy Systems, Process Control</p>
+            <img src="/media/testimonial-1.jpg"  style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
+            <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Mohammad Aliahmadi</a></h3>
+            <p class="text-xl font-semibold">Ph.D. student, 2021</p>
+            <p class="text-sm text-gray-600">Email: aahmadim@mail.ubc.ca</p>
+            <p class="text-sm text-gray-600">Research: Optimization of Biomass Supply Chains</p>
             <div class="flex space-x-2 text-gray-500">
               <a href="https://scholar.google.com/" target="_blank"><i class="lab la-google"></i></a>
               <a href="https://www.linkedin.com/" target="_blank"><i class="lab la-linkedin"></i></a>
