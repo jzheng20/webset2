@@ -21,12 +21,12 @@ main:
   - name: Positions
     url: /#positions
     weight: 60
-  - name: Gallery
-    url: /#gallery
-    weight: 70
   - name: Opportunities
-    weight: 80
+    weight: 70
     hasChildren: true
   - parent: Opportunities
     name: Funding
     url: funding/
+  - name: Gallery
+    url: /#gallery
+    weight: 80
