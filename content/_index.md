@@ -299,23 +299,5 @@ sections:
 
 ---
 
----
-widget: people
-headless: true
-title: Meet Our Team
-content:
-  user_groups:
-    - Grad Students
-design:
-  # Show user's social networking links? (true/false)
-  show_social: false
-  # Show user's interests? (true/false)
-  show_interests: true
-  # Show user's role?
-  show_role: true
-  # Show user's organizations/affiliations?
-  show_organizations: true
-
-
----
+ 
  
