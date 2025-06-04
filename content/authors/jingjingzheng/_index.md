@@ -1,13 +1,19 @@
----
-title: Jingjing Zheng"
-role: "Ph.D. Student"
+title: Jingjing
+role: PhD Student
 organizations:
-  - name: "UBC"
-    url: "https://ubc.ca"
-user_groups:
-  - Administration
-email: "kaixun.hua@ubc.ca"
-superuser: false
+  - name: Cao Research Group, UBC
+    url: https://chbe.ubc.ca/
+email: liming@example.com
+user_groups: ["Grad Students"]
+avatar:
+  image: testimonial-1.jpg  # 放在 static/media/ 目录下
+  shape: circle
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:liming@example.com
 authors:
   - jingjingzheng
----
+
+
+
