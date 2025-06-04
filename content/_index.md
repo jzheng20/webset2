@@ -148,7 +148,7 @@ sections:
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
             <img src="/media/testimonial-1.jpg"   style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
-            <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
+            <h3 class="text-xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
             <p class="text-xl font-semibold">Associate Professor, UBC</p>
             <p class="text-sm text-gray-600">Office: CHBE 237</p>
             <p class="text-sm text-gray-600">E-mail: yankai.cao@ubc.ca</p>
@@ -161,7 +161,7 @@ sections:
           </div> 
         </div>
         <p class="text-4xl font-bold text-center" style="font-family:Times New Roman, sans-serif;">PhD students</p>
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-15 text-center">
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-20 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
@@ -187,32 +187,6 @@ sections:
               <a href="https://www.linkedin.com/" target="_blank"><i class="lab la-linkedin"></i></a>
               <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
             </div>
-          </div>
-        </div>
-  - block: markdown
-    id: members2
-    content:
-      title: Postdocs
-      text: |
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 text-center">
-          <!-- Member 1 -->
-          <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-13 h-13 object-cover" alt="Kaixun Hua">
-            <h3 class="text-xl font-bold text-red-600">Dr. Kaixun Hua</h3>
-            <p class="text-sm font-semibold">Postdoctoral Researcher</p>
-            <p class="text-sm text-gray-600">Global Optimization, UBC</p>
-            <div class="flex space-x-2 text-gray-500">
-              <a href="https://scholar.google.com/" target="_blank"><i class="lab la-google"></i></a>
-              <a href="https://www.linkedin.com/" target="_blank"><i class="lab la-linkedin"></i></a>
-              <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
-            </div>
-          </div>
-          <!-- Member 2 -->
-          <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-13 h-13 object-cover" alt="Jiayang Ren">
-            <h3 class="text-xl font-bold text-red-600">Jiayang Ren</h3>
-            <p class="text-sm font-semibold">Ph.D. Student</p>
-            <p class="text-sm text-gray-600">Clustering, UBC</p>
           </div>
         </div>
 
