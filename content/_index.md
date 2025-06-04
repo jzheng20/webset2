@@ -100,7 +100,6 @@ sections:
           role: "Marketing Executive at X"
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
