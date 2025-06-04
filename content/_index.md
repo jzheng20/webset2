@@ -137,7 +137,7 @@ sections:
       card:
         css_class: "shadow-lg rounded-xl border border-gray-200 p-4 bg-white"
   - block: markdown
-    id: people
+    id: members
     content:
       title: "Members"
       text: |
