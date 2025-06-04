@@ -227,8 +227,15 @@ sections:
               <a href="https://github.com/" target="_blank"><i class="lab la-github"></i></a>
             </div>
           </div>
-        </div>
- 
+        </div> 
+  - block: people
+    id: people
+    content:
+      title: People
+      text: Build your site with blocks 🧱
+      content:
+        user_groups:
+          - Grad Students 
   - block: features
     id: people
     content:
