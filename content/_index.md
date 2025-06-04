@@ -159,9 +159,9 @@ sections:
         </div>
   - block: markdown
     id: team
-    text:
-      title: "Our Team"
-      markdown: |
+    content:
+      title: "Members"
+      text: |
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
