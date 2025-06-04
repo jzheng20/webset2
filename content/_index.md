@@ -148,7 +148,7 @@ sections:
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
             <img src="/media/testimonial-1.jpg"   style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
-            <h3 class="text-xl font-bold text-red-600" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
+            <h3 class="text-xl font-semibold text-red-600" style="font-family:Times New Roman, sans-serif;"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
             <p class="text-xl font-semibold">Associate Professor, UBC</p>
             <p class="text-sm text-gray-600">Office: CHBE 237</p>
             <p class="text-sm text-gray-600">E-mail: yankai.cao@ubc.ca</p>
