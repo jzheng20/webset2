@@ -6,7 +6,7 @@ organizations:
 email: liming@example.com
 user_groups: ["Grad Students"]
 avatar:
-  image: testimonial-1.jpg  # 放在 static/media/ 目录下
+  image: testimonial-1.jpg   
   shape: circle
 social:
   - icon: envelope
