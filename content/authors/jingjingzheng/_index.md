@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: mailto:liming@example.com
 authors:
-  - jingjingzheng
+  - ["jingjingzheng"]
 
 
 
