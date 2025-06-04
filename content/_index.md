@@ -161,11 +161,11 @@ sections:
           </div> 
         </div>
         <p class="text-4xl font-bold text-center" style="font-family:Times New Roman, sans-serif;">PhD students</p>
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-20 text-center">
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-30 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
-            <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Jiayang Ren</a></h3>
+            <h3 class="text-xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Jiayang Ren</a></h3>
             <p class="text-xl font-semibold">Ph.D. student, 2021-</p>
             <p class="text-sm text-gray-600">E-mail: rjy12307@mail.ubc.ca</p>
             <p class="text-sm text-gray-600">Research: Deep Learning-based Model Predictive Control</p>
@@ -178,7 +178,7 @@ sections:
           <!-- Member 2 -->
           <div class="flex flex-col items-center space-y-2">
             <img src="/media/testimonial-1.jpg"  style="width: 8rem; height: 8rem;"  class="rounded-full object-cover">
-            <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Mohammad Aliahmadi</a></h3>
+            <h3 class="text-xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Mohammad Aliahmadi</a></h3>
             <p class="text-xl font-semibold">Ph.D. student, 2021</p>
             <p class="text-sm text-gray-600">Email: aahmadim@mail.ubc.ca</p>
             <p class="text-sm text-gray-600">Research: Optimization of Biomass Supply Chains</p>
