@@ -147,7 +147,7 @@ sections:
         <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 gap-10 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" ial-1.jpg" style="width: 2.6rem; height: 2.6rem;"  class="rounded-full object-cover">
+            <img src="/media/testimonial-1.jpg" ial-1.jpg" style="width: 4rem; height: 4rem;"  class="rounded-full object-cover">
             <h3 class="text-2xl font-bold text-red-600"><a href="https://chbe.ubc.ca/yankai-cao/" target="_blank" class="text-blue-600 hover:text-blue-800"> Dr. Yankai Cao</a></h3>
             <p class="text-xl font-semibold">Associate Professor</p>
             <p class="text-xl text-gray-600">UBC</p>
