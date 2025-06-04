@@ -143,15 +143,16 @@ sections:
     content:
       title: <p class="text-5xl font-bold" style="font-family:Times New Roman, sans-serif;">Members</p>
       text: |
-        <p class="text-2xl font-extrabold text-center">Professor</p>
+        <p class="text-4xl font-extrabold text-center">Principal Investigator</p>
         <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 gap-10 text-center">
           <!-- Member 1 -->
           <div class="flex flex-col items-center space-y-2">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-11 h-11 object-cover" alt="Yankai Cao">
+            <img src="/media/testimonial-1.jpg" class="rounded-full w-10 h-10 object-cover" alt="Yankai Cao">
             <h3 class="text-xl font-bold text-red-600">Dr. Yankai Cao</h3>
             <p class="text-sm font-semibold">Associate Professor</p>
             <p class="text-sm text-gray-600">Global Optimization, UBC</p>
             <p class="text-sm text-black">E-mail: yankai.cao@ubc.ca</p>
+            <p class="text-sm text-black">Page: [https://chbe.ubc.ca/yankai-cao/](https://chbe.ubc.ca/yankai-cao/)</p>
             <div class="flex space-x-2 text-gray-500">
               <a href="https://scholar.google.com/" target="_blank"><i class="lab la-google"></i></a>
               <a href="https://www.linkedin.com/" target="_blank"><i class="lab la-linkedin"></i></a>
