@@ -298,16 +298,19 @@ sections:
             <p class="text-2xl font-light italic" style="font-family:Times New Roman, sans-serif;">Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.</p>
 
 widget: people
-active: true
 headless: true
 title: Meet Our Team
 content:
   user_groups:
     - Grad Students
 design:
-  show_social: true
-  show_interests: false
+  # Show user's social networking links? (true/false)
+  show_social: false
+  # Show user's interests? (true/false)
+  show_interests: true
+  # Show user's role?
   show_role: true
+  # Show user's organizations/affiliations?
   show_organizations: true
 
 
