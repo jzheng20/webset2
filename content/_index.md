@@ -216,10 +216,11 @@ sections:
           </div>
         </div>
     design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+  
 
   - block: cta-image-paragraph
     id: solutions
