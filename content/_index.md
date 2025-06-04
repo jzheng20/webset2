@@ -144,6 +144,7 @@ sections:
       items:
         - name: Optimized SEO
           icon: magnifying-glass
+          image: "testimonial-1.jpg"
           description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
         - name: Fast
           icon: bolt
