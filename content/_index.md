@@ -150,7 +150,7 @@ sections:
             </div>
           </div>
           <div class="flex items-center space-x-4">
-            <img src="/media/testimonial-1.jpg" class="rounded-full w-20 h-20" alt="Jiayang">
+            <img src="/media/log2.png" class="rounded-full w-20 h-20" alt="Jiayang">
             <div>
               <h3 class="text-xl font-bold">Jiayang Ren</h3>
               <p>Ph.D. Student – Clustering</p>
