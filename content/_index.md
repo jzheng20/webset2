@@ -298,9 +298,9 @@ sections:
   - block: hero
     id: positions
     content:
-      title: <p class="text-5xl font-bold" style="font-family:Times New Roman, sans-serif;">Positions</p>
+      title:  Positions 
       text: >
-            <p class="text-2xl font-bold" style="font-family:Times New Roman, sans-serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
+            <p class="text-2xl font-bold"">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉 Please <span class="font-bold">send your CV to</span> <span style="text-decoration: underline;">yankai.cao@ubc.ca.</span>. </p> 
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉  Please <span class="font-bold">provide the following information:</span>   degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs). </p> 
             <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉 Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="underline text-blue-600 hover:text-blue-800"> UBC Graduate School</a>.</p>
